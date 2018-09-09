@@ -2,15 +2,23 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta alt up" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="meta alt down" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
