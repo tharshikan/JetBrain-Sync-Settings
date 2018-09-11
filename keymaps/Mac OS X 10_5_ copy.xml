@@ -17,6 +17,9 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
