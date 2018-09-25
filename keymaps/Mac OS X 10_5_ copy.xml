@@ -34,6 +34,10 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
