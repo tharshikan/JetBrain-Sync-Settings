@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
+</keymap>
