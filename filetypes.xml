@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="PetsDb-journal" type="PLAIN_TEXT" />
+      <mapping pattern="PetsDb" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
