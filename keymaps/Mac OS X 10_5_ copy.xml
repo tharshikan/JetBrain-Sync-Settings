@@ -1,19 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta 8" />
-  </action>
-  <action id="ActivatenpmToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -26,7 +17,6 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="FileChooser.GotoProject" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
