@@ -20,10 +20,6 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
