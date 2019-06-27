@@ -1,25 +1,33 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Console.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="meta alt up" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="meta alt down" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
@@ -30,16 +38,18 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="NextOccurence" />
-  <action id="PreviousOccurence" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
-    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="meta alt button1" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
-  <action id="SmartSelect" />
 </keymap>
