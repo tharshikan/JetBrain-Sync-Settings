@@ -2,18 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
->>>>>>> parent of 81e60da... WS-2019.2.1 <tharshikan@Tharshikans-MacBook-Pro.local Update find.xml
-=======
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
->>>>>>> parent of d5d64be... WS-2019.1.3 <tharshikan@Tharshikans-MBP.localdomain Update find.xml
     <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
