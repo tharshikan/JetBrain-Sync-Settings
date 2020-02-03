@@ -1,8 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+<<<<<<< HEAD
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+=======
+      <mapping pattern="PetsDb-journal" type="PLAIN_TEXT" />
+      <mapping pattern="PetsDb" type="SQL" />
+>>>>>>> parent of d248403... AI-3.4.1 <tharshikan@tharshikans-mbp.localdomain Merge branch 'master'
     </extensionMap>
   </component>
 </application>
